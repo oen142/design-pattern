@@ -1,4 +1,4 @@
-package com.wani.designpattern.stratgy;
+package com.wani.designpattern.strategy;
 
 public class AInterfaceImpl implements AInterface{
 
